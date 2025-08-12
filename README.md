@@ -78,8 +78,6 @@ A modern, responsive, and user-friendly online food ordering system built with P
 
 <img width="1571" height="645" alt="image" src="https://github.com/user-attachments/assets/f1369f0f-f8c2-41e4-8210-478d9b5fb8e0" />
 
-<img width="339" height="555" alt="image" src="https://github.com/user-attachments/assets/8bc23d4b-257d-4f91-a308-facbbf12ab8a" />
-
 <img width="1874" height="422" alt="image" src="https://github.com/user-attachments/assets/37497b05-77b0-456e-a287-1817d0408ec1" />
 
 
