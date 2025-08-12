@@ -43,20 +43,11 @@ A modern, responsive, and user-friendly online food ordering system built with P
 - Apache/Nginx web server
 - Composer (for dependency management)
 
-
-## 📍 IMPLEMENTED BY
-- **Owner:** RIYA JALAN
-- **Address:** Vaishnavi Rathnam, Jalahalli Cross, Bangalore - 560073, Karnataka, India
-- **Email:** riyajalan@gmail.com
-- **Phone:** +91 9956******
-
-
 ## 🌟 Features in Development
 
 - [ ] Mobile app development
 - [ ] Real-time order tracking
 - [ ] Multiple payment gateway integration
-- [ ] Loyalty program
 - [ ] Review and rating system
 
 
@@ -81,8 +72,11 @@ A modern, responsive, and user-friendly online food ordering system built with P
 <img width="1874" height="422" alt="image" src="https://github.com/user-attachments/assets/37497b05-77b0-456e-a287-1817d0408ec1" />
 
 
-
-
+## 📍 IMPLEMENTED BY
+- ** RIYA JALAN
+- **Address:** Vaishnavi Rathnam, Jalahalli Cross, Bangalore - 560073, Karnataka, India
+- **Email:** riyajalan@gmail.com
+- **Phone:** +91 9956******
 
 
 
